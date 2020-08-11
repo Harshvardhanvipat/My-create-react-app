@@ -1,2 +1,0 @@
-(this.webpackJsonppics=this.webpackJsonppics||[]).push([[0],{3:function(e,n,t){e.exports=t(8)},8:function(e,n,t){"use strict";t.r(n);var r=t(0),c=t.n(r),i=t(2),o=function(){return c.a.createElement("div",null," App div ")};t.n(i).a.render(c.a.createElement(o,null),document.querySelector("#root"))}},[[3,1,2]]]);
-//# sourceMappingURL=main.958cad55.chunk.js.map
