@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/My-create-react-app/static/js/main.3db1b9db.chunk.js",
-    "main.js.map": "/My-create-react-app/static/js/main.3db1b9db.chunk.js.map",
+    "main.js": "/My-create-react-app/static/js/main.e520bde5.chunk.js",
+    "main.js.map": "/My-create-react-app/static/js/main.e520bde5.chunk.js.map",
     "runtime-main.js": "/My-create-react-app/static/js/runtime-main.6cdb0483.js",
     "runtime-main.js.map": "/My-create-react-app/static/js/runtime-main.6cdb0483.js.map",
     "static/js/2.6fa09cdb.chunk.js": "/My-create-react-app/static/js/2.6fa09cdb.chunk.js",
     "static/js/2.6fa09cdb.chunk.js.map": "/My-create-react-app/static/js/2.6fa09cdb.chunk.js.map",
     "index.html": "/My-create-react-app/index.html",
-    "precache-manifest.868b471c0f65c658b71796c22dc026dd.js": "/My-create-react-app/precache-manifest.868b471c0f65c658b71796c22dc026dd.js",
+    "precache-manifest.b7b8b7b81055d643b4b998fd8ecf128d.js": "/My-create-react-app/precache-manifest.b7b8b7b81055d643b4b998fd8ecf128d.js",
     "service-worker.js": "/My-create-react-app/service-worker.js",
     "static/js/2.6fa09cdb.chunk.js.LICENSE.txt": "/My-create-react-app/static/js/2.6fa09cdb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6cdb0483.js",
     "static/js/2.6fa09cdb.chunk.js",
-    "static/js/main.3db1b9db.chunk.js"
+    "static/js/main.e520bde5.chunk.js"
   ]
 }
