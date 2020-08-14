@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1b2682ed21322c7d2e0c8b33e439a3b3",
+    "revision": "a792fa23444eb5d0c1f574f7e316ed6d",
     "url": "/My-create-react-app/index.html"
   },
   {
-    "revision": "227b8c5a47d71d842986",
-    "url": "/My-create-react-app/static/css/main.eb66b8a9.chunk.css"
+    "revision": "86a669560e3f9fc0c1c2",
+    "url": "/My-create-react-app/static/css/main.d48cec2f.chunk.css"
   },
   {
     "revision": "a807f3f0a36982b89c60",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/My-create-react-app/static/js/2.6fa09cdb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "227b8c5a47d71d842986",
-    "url": "/My-create-react-app/static/js/main.e3d801b4.chunk.js"
+    "revision": "86a669560e3f9fc0c1c2",
+    "url": "/My-create-react-app/static/js/main.963876f2.chunk.js"
   },
   {
     "revision": "b1c746b6186ec50e21a4",
